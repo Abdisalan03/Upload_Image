@@ -67,7 +67,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-
-<img src="/lib/image.jpg" alt="User Registration & Upload Imag" >
+<img src="/lib/image.jpg" alt="Example Image" >
