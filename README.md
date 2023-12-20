@@ -1,4 +1,4 @@
-# StreamFirebase
+<!-- # StreamFirebase
 
 A Flutter widget that allows you to add data to Firebase Firestore and upload an image to Firebase Storage.
 
@@ -66,8 +66,8 @@ class MyApp extends StatelessWidget {
       ),
     );
   }
-}
+} -->
 
 
-![Alt Text](lib/image.jpg)
+![Alt Text](/lib/image.jpg)
 <img src="/lib/image.jpg" alt="Example Image" width="300">
