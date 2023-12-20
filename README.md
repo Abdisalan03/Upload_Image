@@ -67,4 +67,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+
+![Alt Text](lib/image.jpg)
 <img src="/lib/image.jpg" alt="Example Image" width="300">
