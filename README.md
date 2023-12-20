@@ -67,4 +67,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-<img src="/lib/image.jpg" alt="Example Image" >
+<img src="/lib/image.jpg" alt="Example Image" width="300">
