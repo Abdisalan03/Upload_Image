@@ -1,3 +1,7 @@
+## Image
+
+![Alt Text](/lib/image.jpg)
+
 # StreamFirebase
 
 A Flutter widget that allows you to add data to Firebase Firestore and upload an image to Firebase Storage.
@@ -46,28 +50,6 @@ To use the `StreamFirebase` widget, follow these steps:
     )
     ```
 
-## Example
 
-Here's an example of how you can use the `StreamFirebase` widget:
 
-```dart
-import 'package:flutter/material.dart';
 
-void main() {
-  runApp(MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(
-        body: StreamFirebase(),
-      ),
-    );
-  }
-}
-
-## Image
-
-![Alt Text](/lib/image.jpg)
